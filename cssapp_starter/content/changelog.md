@@ -1,1 +1,0 @@
-# Changelog\n\n- Initial scaffold\n
