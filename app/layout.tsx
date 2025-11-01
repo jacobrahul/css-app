@@ -16,7 +16,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <a href="/pricing" className="opacity-75 hover:opacity-100">Pricing</a>
         </nav>
         <main className="max-w-5xl mx-auto px-6">{children}</main>
-        <footer className="text-xs opacity-70 px-6 py-10">Made by Rahul Baugh</footer>
+        <footer className="text-xs opacity-70 px-6 py-10">Made by Rahul</footer>
       </body>
     </html>
   )
